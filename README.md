@@ -3,6 +3,7 @@
 <div align="center">
 <img alt="jwtberry Logo" height="300" src="./jwtberry_logo.png" width="300"/>
 </div>
+
 **jwtberry** is a Python package that simplifies JWT (JSON Web Token) authentication for Django Strawberry GraphQL projects. It provides easy-to-use tools for implementing JWT authentication within your Strawberry-based GraphQL API.
 
 ## Features
